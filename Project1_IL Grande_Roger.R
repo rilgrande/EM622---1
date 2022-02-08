@@ -1,5 +1,5 @@
 # Roger IL Grande
-# EM-622 Homework 1
+# EM-622 Project 1
 
 
 data(Orange) # Load the built-in dataset Orange
